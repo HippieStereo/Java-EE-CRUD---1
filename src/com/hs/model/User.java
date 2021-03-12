@@ -1,4 +1,4 @@
-package com.hs.bean;
+package com.hs.model;
 
 public class User {
 	
