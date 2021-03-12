@@ -70,11 +70,9 @@ public class UserDao {
 			
 		} catch (SQLException e) {
 			
-			printSqlExecption(e);
+			printSqlException(e);
 			
 		}
-		
-		
 		
 	}
 	
